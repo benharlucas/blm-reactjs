@@ -1,16 +1,11 @@
 import React from 'react'
 
-
 const Header = () => {
-    const home = 'Home';
-    const aboutUs = 'About us'
-
-    return (
-        <header>
-            <p>{home} {about us}</p>
-        </header>
-    )
-        
-};
+  return (
+    <header>
+This is Header
+</header>
+  )
+}
 
 export default Header
