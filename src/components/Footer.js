@@ -1,10 +1,21 @@
 import React from 'react'
+import './footer.css'
 
 const Footer = () => {
+//      const myFooter = {
+//          color: 'white',
+//          backgroundColor: '	#1E90FF',
+//          padding: 'px',
+//      };
+
+
+
   return (
-    <footer>
-        This is Footer
+ 
+        <footer className = "myfooter">
+            <p> <b>This is footer</b></p>
         </footer>
+    
   )
 }
 
