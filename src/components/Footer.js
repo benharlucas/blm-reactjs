@@ -5,7 +5,7 @@ const Footer = () => {
 //      const myFooter = {
 //          color: 'white',
 //          backgroundColor: '	#1E90FF',
-//          padding: 'px',
+//          padding: '10px',
 //      };
 
 
